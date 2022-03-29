@@ -1,0 +1,3 @@
+paho-mqtt==1.6.1
+pymongo==4.0.2
+crccheck==1.1

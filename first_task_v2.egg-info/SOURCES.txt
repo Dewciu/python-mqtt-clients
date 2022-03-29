@@ -1,0 +1,10 @@
+setup.py
+first_task/__init__.py
+first_task/db_provider.py
+first_task/decoder.py
+first_task/file_manager.py
+first_task/mqtt_clients.py
+first_task_v2.egg-info/PKG-INFO
+first_task_v2.egg-info/SOURCES.txt
+first_task_v2.egg-info/dependency_links.txt
+first_task_v2.egg-info/top_level.txt
